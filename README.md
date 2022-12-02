@@ -25,3 +25,7 @@ in a web browser of your choice.
 * Line 65; Added Section semantic and moved '.benefits' to child div.
 * Line 69, 78, 86; Added alt text to image.
 * Line 98; Changed heart emoji to the world "Love'
+
+## Credits
+
+[Wallpaper-Cave](http://wallpapercave.com/galaxy-desktop-backgrounds)-The Background Image
